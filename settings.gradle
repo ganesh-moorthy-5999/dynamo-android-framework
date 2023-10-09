@@ -1,0 +1,3 @@
+include ':sampleLibrary'
+include ':app'
+rootProject.name = "Dyanmo-Android-Framework"
